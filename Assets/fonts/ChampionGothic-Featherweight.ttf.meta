@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 0f8bbed5c3f216145aac21f1fb8e43f3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Champion Gothic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: aa92490027028064f9ccfe3c1b2ba377, type: 3}
+  - {fileID: 12800000, guid: d9c38fd89065ab74a93724010bddeb8c, type: 3}
+  - {fileID: 12800000, guid: ba058be8375eaad488a992a4e5ea4c14, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

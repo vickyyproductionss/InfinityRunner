@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: da988050af9b3c9439600d94d3b2222d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Aliens & cows
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 69a80111294c0674388fb58cd7dfc3cc, type: 3}
+  - {fileID: 12800000, guid: 8aca262706e3f7d478409666566802f5, type: 3}
+  - {fileID: 12800000, guid: a72bb32953af91d48bfe5b6ada8a7630, type: 3}
+  - {fileID: 12800000, guid: e93597db437d5b744ad5ed118ddf8a3b, type: 3}
+  - {fileID: 12800000, guid: 99772d14f92c2bb4e842695f49bf3f08, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

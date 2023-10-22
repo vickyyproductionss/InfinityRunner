@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - obstacle
+  - levelUp
+  - player
+  - Ball
+  - Wall
+  - Holes
+  - road
+  - diamond
+  - obtacle
+  - specialWoodenBox
+  - coin
+  - speedLimiter
+  - speedBooster
+  - incline
+  - booster
+  - roadParent
+  - speedUpToken
+  - speedDownToken
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - glow
+  - Water
+  - UI
+  - 
+  - 
+  - TranslucentUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1971249179
+    locked: 0
+  - name: midGround
+    uniqueID: 2045524365
+    locked: 0
+  - name: foreground
+    uniqueID: 4042026037
+    locked: 0

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: a4a489eab16ce3a4b8979f0c25302c24
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gearus Serif
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 94db36c5a7adc4041b5a48dc82503b3d, type: 3}
+  - {fileID: 12800000, guid: 23c5fdbb427d5564eb9de3be0c03be56, type: 3}
+  - {fileID: 12800000, guid: 920724f7403b2f84ebf5b71a7a2af111, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

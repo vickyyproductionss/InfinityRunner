@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://runnergame-413f7-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">680661143943</string>
+  <string name="google_storage_bucket" translatable="false">runnergame-413f7.appspot.com</string>
+  <string name="project_id" translatable="false">runnergame-413f7</string>
+  <string name="google_api_key" translatable="false">AIzaSyAVVmSAcCccghgJSR5rzpACJko2rGcsYyk</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAVVmSAcCccghgJSR5rzpACJko2rGcsYyk</string>
+  <string name="google_app_id" translatable="false">1:680661143943:android:a13ef82307bb67df9c8322</string>
+  <string name="default_android_client_id" translatable="false">680661143943-4g1tbmh21ian0aomp149rme4emfnt8pj.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">680661143943-17lcq48lh87cqgkktl1dnv47dim2639n.apps.googleusercontent.com</string>
+</resources>

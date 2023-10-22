@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 8e02ce8a8bd886144b6089727d6dde47
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gearus Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: fd83102838d55ef45b0e801ffc18a199, type: 3}
+  - {fileID: 12800000, guid: 4a56e70ff0202d54ea756050741e7da5, type: 3}
+  - {fileID: 12800000, guid: 7bd211305a5ef0b40ac1e1ace9b6f495, type: 3}
+  - {fileID: 12800000, guid: a57ef1b038102c648a4e27d7ff0ed317, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

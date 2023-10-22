@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bf137dc16aaf60c4698a88a13a2c76a3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - RitzFLF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d1e2de1ff22bbbc409c594174c5d30b0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

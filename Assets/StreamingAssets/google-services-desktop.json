@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "680661143943",
+    "firebase_url": "https://runnergame-413f7-default-rtdb.firebaseio.com",
+    "project_id": "runnergame-413f7",
+    "storage_bucket": "runnergame-413f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680661143943:android:a13ef82307bb67df9c8322",
+        "android_client_info": {
+          "package_name": "com.vicky.VCGames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680661143943-4g1tbmh21ian0aomp149rme4emfnt8pj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vicky.VCGames",
+            "certificate_hash": "a3a680155080c1b7bdf255790382356eaff48355"
+          }
+        },
+        {
+          "client_id": "680661143943-17lcq48lh87cqgkktl1dnv47dim2639n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVVmSAcCccghgJSR5rzpACJko2rGcsYyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680661143943-17lcq48lh87cqgkktl1dnv47dim2639n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
